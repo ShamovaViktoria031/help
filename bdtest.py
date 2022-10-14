@@ -78,4 +78,10 @@ def sql():
 
 conn = sqlite3.connect('orders.db')
 cur = conn.cursor()
-sql()
+create()
+a=int(input "Меню. 1.Создать 2.SQL")
+if a==1
+create()
+elif a==2:
+   sq(input(sql:"))
+def sql(sq)
